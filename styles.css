@@ -1,0 +1,29 @@
+body {
+    margin:0px;
+    background: image-set(url(fundo.jpg));
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+   background:black;
+   padding: 3px;
+    
+}
+
+section {
+    margin: 90px;
+    color: aliceblue;
+    display: flex
+}
+
+.vídeo1 {
+    margin-inline: 20px;
+}
+
+.vídeo2 {
+    margin-inline: 20px;
+}
+
+.vídeo3 {
+    margin-inline: 20px;
+}
